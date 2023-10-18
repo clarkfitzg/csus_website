@@ -1,5 +1,5 @@
 ---
-date: 2020-08-22
+date: 2021-05-04
 tags:
     - personal
 ---
@@ -104,3 +104,26 @@ Professors love it when students engage with them and the material, because it a
 It's easy to get caught up in grades.
 Don't let a bunch of letters and numbers control your life.
 If you put in your best effort by following the tips above, then you will earn the best grades possible.
+
+
+## Questions
+
+Students asked me these questions, and here are my responses.
+
+------------------------------------------------------------
+
+> I'm graduating soon with a bachelor's.
+> Should I work or go to school?
+
+This is a very personal question, and the answer depends on which options you have available.
+In general, it's better to have options, so apply anywhere that interests you.
+
+I had this same question when I was graduating college.
+The summer before my last year of college I had an internship in San Jose, so I commuted to work on the Amtrak capital corridor train from Oakland.
+A few people called it the "brain train", because so many riders had PhD's.
+The general consensus among those on the brain train was that if you were offered a good, interesting, high paying job, then take it.
+
+I took the job rather than going to graduate school, and I'm glad I did.
+Work exposed me to the whole culture of tech and data science, and I learned more about what skills were valuable in industry and what the state of the art was.
+At work I learned where the limits of my knowledge were, and what holes in my background I needed to fill to do the kind of data science work I was most interested in.
+
