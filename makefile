@@ -1,5 +1,5 @@
 serve:
-	jekyll serve --watch
+	bundle exec jekyll serve --watch
 
 up:
 	#rm _posts/*.pdf

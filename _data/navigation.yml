@@ -1,6 +1,4 @@
 main:
-  - title: "STAT 196K"
-    url: /stat196K/
   - title: "Students"
     url: /students/
   - title: "About"
