@@ -2,6 +2,7 @@
 date: 2021-05-04
 tags:
     - personal
+    - advice
 ---
 
 This high level advice is for college students regardless of major.
@@ -44,7 +45,7 @@ Cal Newport's [Study Hacks Blog](https://www.calnewport.com/blog/) has many furt
 #### Make good financial decisions
 
 It's easy to get deep into debt while studying.
-This debt will affect you for the rest of your life, from buying your first house all the way through to retirement planning.
+This debt can affect you for the rest of your life, from buying your first house all the way through to retirement planning.
 It's not necessarily worth it.
 Ask people hard questions, look objectively at the data, and determine how much your degree will really be worth, before you commit to it.
 When listening to success stories, ask yourself, "Is this typical for a major in this field, or is this person an anomaly?"
@@ -102,7 +103,7 @@ Professors love it when students engage with them and the material, because it a
 #### Don't worry about grades
 
 It's easy to get caught up in grades.
-Don't let a bunch of letters and numbers control your life.
+Don't let a bunch of letters and numbers define you as a person and control your life.
 If you put in your best effort by following the tips above, then you will earn the best grades possible.
 
 
